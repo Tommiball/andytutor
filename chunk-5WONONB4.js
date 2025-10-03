@@ -1,0 +1,1 @@
+import{Ka as n,La as a,Ra as m,Ta as p,W as o}from"./chunk-PT5ZUNEY.js";var s=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=o({type:t,selectors:[["app-home-page"]],standalone:!0,features:[p],decls:2,vars:0,template:function(e,r){e&1&&(n(0,"h1"),m(1,"Home"),a())}})};export{s as HomePageComponent};

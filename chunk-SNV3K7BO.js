@@ -1,0 +1,1 @@
+import{Ka as t,La as a,Ra as i,Ta as p,W as n}from"./chunk-PT5ZUNEY.js";var s=class o{static \u0275fac=function(e){return new(e||o)};static \u0275cmp=n({type:o,selectors:[["app-booking-page"]],standalone:!0,features:[p],decls:2,vars:0,template:function(e,m){e&1&&(t(0,"h1"),i(1,"Booking"),a())}})};export{s as BookingPageComponent};
