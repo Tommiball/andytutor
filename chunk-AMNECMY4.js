@@ -1,0 +1,1 @@
+import{Wa as s,Xa as n,Y as o,bb as a,db as r}from"./chunk-JGEE6KTD.js";var c=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=o({type:t,selectors:[["app-resources-page"]],standalone:!0,features:[r],decls:2,vars:0,template:function(e,i){e&1&&(s(0,"h1"),a(1,"Resources"),n())}})};export{c as ResourcesPageComponent};
